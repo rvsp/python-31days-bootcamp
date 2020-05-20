@@ -76,14 +76,9 @@
         letter = "hai sethuraman"
         for i in letter:
             if i == "a":
-                pass
+                continue
                 print("continue statement")
             else:
                 print(i)
     ```
-
-    ---------------------------------------
-
-7. Write a function which has ability to accept `*N` arguments.
-
     ---------------------------------------
