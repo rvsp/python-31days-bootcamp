@@ -126,4 +126,33 @@
     }
     ```
 
----------------------------------------
+    ---------------------------------------
+
+8. What is output for below code?
+
+    ```python
+    def sample():
+        value = 10
+        def sample1():
+            value1=20
+            print(value)
+        sample1()
+        print(value1)
+
+    sample()
+    ```
+
+    ```python
+    def sample():
+        value = 10
+        def sample1():
+            global value1
+            value1=20
+            print(value)
+        sample1()
+        print(value1)
+
+    sample()
+    ```
+
+    ---------------------------------------
