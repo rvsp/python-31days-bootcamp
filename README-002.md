@@ -154,5 +154,20 @@
 
     sample()
     ```
+    ---------------------------------------
 
+9. What is output?
+
+    ```python
+    def outer():
+        x = "local"
+        def inner():
+            nonlocal x
+            # nonlocal x
+            x = "nonlocal"
+            print("inner:", x)
+        inner()
+        print("outer:", x)
+    outer()
+    ```
     ---------------------------------------
