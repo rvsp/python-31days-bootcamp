@@ -15,4 +15,3 @@ Write a program that picks a random integer from 1 to 100, and has players guess
     * farther from the number than the previous guess, return "COLDER!"
 4. When the player's guess equals the number, tell them they've guessed correctly *and* how many guesses it took!
 
-You can try this from scratch, or follow the steps outlined below. A separate Solution notebook has been provided. Good luck!
