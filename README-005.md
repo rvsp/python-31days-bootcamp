@@ -10,3 +10,10 @@
 2. Write a function to manipulate the given date of birth.
     
     ---------------------------------------
+
+3. Write a python program to count read number of lines and number of capital letters in every line with files.
+
+    ---------------------------------------
+4. A text file contains students database, Write a python program with file to calculate the sum of the marks and average.
+
+    ---------------------------------------
