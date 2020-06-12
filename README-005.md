@@ -17,3 +17,11 @@
 4. A text file contains students database, Write a python program with file to calculate the sum of the marks and average.
 
     ---------------------------------------
+
+5. Write one pattern that matches for following emails:
+
+    * mail@sub-domain.com
+    * countct-us@sample.mail-domain.com
+    * reach.to.hr@2347-domain.com
+
+    ---------------------------------------
