@@ -57,7 +57,7 @@
     ```
 
 ---------------------------------------
-3. From the below snippet print the `mats`
+3. From the below snippet print the `match`
 
     ```python
     body = {
