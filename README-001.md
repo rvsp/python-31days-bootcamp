@@ -63,7 +63,7 @@
 6. Justify the Difference below snippets.
 
     ``` python
-        letter = "hai sethuraman"
+        letter = "hai programming"
         for i in letter:
             if i == "a":
                 pass
@@ -73,7 +73,7 @@
     ```
 
     ``` python
-        letter = "hai sethuraman"
+        letter = "hai programming"
         for i in letter:
             if i == "a":
                 continue
